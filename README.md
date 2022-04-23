@@ -40,5 +40,5 @@
 
 <h3>Visited Place</h3>
 
-<h3>Contributed Project</h3>
+<h3>Contributed OpenSource Project</h3>
 
