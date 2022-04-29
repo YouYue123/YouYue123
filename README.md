@@ -49,7 +49,11 @@
 
 </p>
 
-<h3>Visited Place</h3>
+<h3>Place I have Visited </h3>
+
+<img alt="Place I have Visited" src="https://github.com/YouYue123/YouYue123/blob/main/travel.png" />
+
+The image is rendered by using https://github.com/YouYue123/TravelMap
 
 <h3>Contributed OpenSource Project</h3>
 
