@@ -49,7 +49,8 @@
 
 </p>
 
-<h3>Place I have Visited </h3>
+<h3>Place I have visited 🔵  and worked 🟢  </h3>
+
 
 <img alt="Place I have Visited" src="https://github.com/YouYue123/YouYue123/blob/main/travel.png" />
 
