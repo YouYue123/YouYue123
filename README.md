@@ -3,6 +3,7 @@
 <p>
   
   Frontend:
+  <img alt="Flutter" src="https://img.shields.io/badge/-Flutter-C1EEFF?style=flat-square&logo=flutter&logoColor=black" />
   <img alt="React" src="https://img.shields.io/badge/-React-C1EEFF?style=flat-square&logo=react&logoColor=black" />
   <img alt="Vue" src="https://img.shields.io/badge/-Vue-C1EEFF?style=flat-square&logo=vuedotjs&logoColor=black" />
   <img alt="iOS" src="https://img.shields.io/badge/-iOS-C1EEFF?style=flat-square&logo=ios&logoColor=black" />
