@@ -42,6 +42,7 @@
   Languages:
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-070707?style=flat-square&logo=Javascript&logoColor=white" />
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-070707?style=flat-square&logo=typescript&logoColor=white" />
+  <img alt="Dart" src="https://img.shields.io/badge/-Dart-070707?style=flat-square&logo=dart&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-070707?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-070707?style=flat-square&logo=java&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-070707?style=flat-square&logo=java&logoColor=white" />
