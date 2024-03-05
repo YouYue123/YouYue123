@@ -54,7 +54,7 @@
 <h3>Place I have visited 🔵  and worked 🟢  </h3>
 
 
-<img alt="Place I have Visited" src="https://github.com/YouYue123/YouYue123/blob/main/travel.png" />
+<img alt="Place I have Visited" src="https://github.com/YouYue123/YouYue123/blob/main/travel_img.png" />
 
 The image is rendered by using https://github.com/YouYue123/TravelMap
 
