@@ -45,7 +45,7 @@
   <img alt="Dart" src="https://img.shields.io/badge/-Dart-070707?style=flat-square&logo=dart&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-070707?style=flat-square&logo=cplusplus&logoColor=white" />
   <img alt="Java" src="https://img.shields.io/badge/-Java-070707?style=flat-square&logo=java&logoColor=white" />
-  <img alt="Python" src="https://img.shields.io/badge/-Python-070707?style=flat-square&logo=java&logoColor=white" />
+  <img alt="Python" src="https://img.shields.io/badge/-Python-070707?style=flat-square&logo=python&logoColor=white" />
   <img alt="Swift" src="https://img.shields.io/badge/-Swift-070707?style=flat-square&logo=swift&logoColor=white" />
   <img alt="Kotlin" src="https://img.shields.io/badge/-Kotlin-070707?style=flat-square&logo=kotlin&logoColor=white" />
 
